@@ -1,0 +1,5 @@
+{
+  "name": "Hızlı Kare Kapmaca",
+  "description": "A fast-paced, competitive tapping game where two players race to capture all the squares on a grid. Based on the Game Design Document by Eren Özkaradeniz.",
+  "requestFramePermissions": []
+}
